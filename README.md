@@ -24,7 +24,3 @@ The plugin will start working automatically after installation.
 ## License
 
 This plugin is licensed under the MIT License. See [LICENSE](./LICENSE) for more details.
-
----
-
-Let me know if you need any more changes!
