@@ -1,0 +1,4 @@
+name: BoltLands
+version: '${version}'
+main: ru.alkheev.boltlands.BoltLands
+api-version: '1.20'
